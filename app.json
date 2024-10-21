@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AITS",
-    "slug": "AITS",
+    "slug": "aits",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -31,6 +31,12 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "62f02d02-584a-477a-b2a8-f37081b7a900"
+      }
+    },
+    "owner": "muruku333"
   }
 }
